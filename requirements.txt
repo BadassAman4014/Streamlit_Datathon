@@ -1,0 +1,36 @@
+# Blackspot
+folium
+pandas
+protobuf
+scikit-learn
+streamlit-folium
+google-generativeai
+google-cloud-aiplatform
+joblib
+selenium
+pillow
+
+# Data Assistant
+pandas
+numpy==2.0.2
+plotly
+streamlit==1.39.0
+pandasai
+pyYAML
+langchain-google-genai
+google-generativeai
+python-dotenv
+xlrd
+openpyxl
+
+# ICA
+matplotlib
+plotly
+seaborn
+
+# Recommendation System
+scikit-learn
+
+# Time Series
+requests
+prophet
