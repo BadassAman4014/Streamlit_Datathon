@@ -10,7 +10,6 @@ joblib
 selenium
 pillow
 firebase_admin
-io
 
 # Data Assistant
 pandas
